@@ -1,3 +1,2 @@
 def main():
-    print("example python test"
-)
+    print("example python test")

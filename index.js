@@ -1,5 +1,6 @@
-function test(x) {
-    console.log(
-        "example"
-    )
+
+function test() {
+    console.log('example')
 }
+
+test()
